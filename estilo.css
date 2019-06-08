@@ -29,7 +29,7 @@ background-color: #2283c9;
     margin-bottom: 25px;
 }
 .imoveis article img {
-    width: 400px;
+    width: 100%;
 }
 .imoveis .botao {
 padding: 10px 15px;
